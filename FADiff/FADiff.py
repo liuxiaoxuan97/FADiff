@@ -119,7 +119,7 @@ from FADiff.fad.Matrices import Vect as _fadVect
 from FADiff.FuncVect import FuncVect as _funcVect
 from FADiff.rev.Gradients import Scal as _revScal
 from FADiff.rev.Matrices import Vect as _revVect
-# import numpy as np
+import numpy as np
 # import fadScal as _fadScal
 # import fadVect as _fadVect
 # from FuncVect import FuncVect as _funcVect
