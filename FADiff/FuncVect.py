@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from FADiff import FADiff
+from FADiff.FADiff import FADiff
 from FADiff.fad.Gradients import Scal as fadScal
 from FADiff.fad.Matrices import Vect as fadVect
 from FADiff.rev.Gradients import Scal as revScal

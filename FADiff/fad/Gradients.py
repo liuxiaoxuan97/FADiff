@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from FADiff import FADiff
+from FADiff.FADiff import FADiff
 # import FADiff
 import numpy as np
 

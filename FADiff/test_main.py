@@ -1,6 +1,6 @@
 import pytest
 import coverage
-from FADiff import FADiff
+from FADiff.FADiff import FADiff
 import FADiff.Elems
 import numpy as np
 from FADiff.FuncVect import FuncVect
