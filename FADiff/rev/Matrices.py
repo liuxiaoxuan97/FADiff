@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 import numpy as np
-# from FADiff import FADiff
-import FADiff
+from FADiff import FADiff
+# import FADiff
 
 class Vect:
     """
