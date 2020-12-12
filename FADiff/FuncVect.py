@@ -1,10 +1,15 @@
 #!/usr/bin/env python3
 
-from FADiff import FADiff
-from fad.Gradients import Scal as fadScal
-from fad.Matrices import Vect as fadVect
-from rev.Gradients import Scal as revScal
-from rev.Matrices import Vect as revVect
+# from FADiff import FADiff
+# from fad.Gradients import Scal as fadScal
+# from fad.Matrices import Vect as fadVect
+# from rev.Gradients import Scal as revScal
+# from rev.Matrices import Vect as revVect
+import FADiff
+import fadScal
+import fadVect
+import revScal
+import revVect
 import numpy as np
 
 

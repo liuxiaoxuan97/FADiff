@@ -1,9 +1,11 @@
 import pytest
 import coverage
-from FADiff import FADiff
+# from FADiff import FADiff
+import FADiff
 import Elems
 import numpy as np
-from FuncVect import FuncVect
+# from FuncVect import FuncVect
+import FuncVect
 
 
 class TestClass:
