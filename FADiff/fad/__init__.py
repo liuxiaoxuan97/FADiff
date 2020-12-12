@@ -1,2 +1,2 @@
-from FADiff.fad.Gradients import Scal
-from FADiff.fad.Matrices import Vect
+from Gradients import Scal
+from Matrices import Vect
