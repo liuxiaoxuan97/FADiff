@@ -114,11 +114,11 @@ class FADiff:
 
 
 # NOTE: Imports intentionally at bottom to prevent circular dependencies
-from fad.Gradients import Scal as _fadScal
-from fad.Matrices import Vect as _fadVect
+from FADiff.fad.Gradients import Scal as _fadScal
+from FADiff.fad.Matrices import Vect as _fadVect
 from FuncVect import FuncVect as _funcVect
-from rev.Gradients import Scal as _revScal
-from rev.Matrices import Vect as _revVect
+from FADiff.rev.Gradients import Scal as _revScal
+from FADiff.rev.Matrices import Vect as _revVect
 # import numpy as np
 # import fadScal as _fadScal
 # import fadVect as _fadVect

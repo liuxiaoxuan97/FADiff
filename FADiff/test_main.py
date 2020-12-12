@@ -1,9 +1,9 @@
 import pytest
 import coverage
 from FADiff import FADiff
-import Elems
+import FADiff.Elems
 import numpy as np
-from FuncVect import FuncVect
+from FADiff.FuncVect import FuncVect
 
 class TestClass:
     FADiff.set_mode('forward')
